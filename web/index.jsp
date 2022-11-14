@@ -15,7 +15,7 @@
             <div class="card-body">
                 <h4>Iniciar sesión</h4>
                 <input type="text" id="nombre" name="nombre" class="form-control pt-2" placeholder="Ingresa usuario" required>
-                <input type="text" id="password" name="password" class="form-control pt-2" placeholder="Ingresa contraseña" required>
+                <input type="password" id="password" name="password" class="form-control pt-2" placeholder="Ingresa contraseña" required>
                 <input type="submit" id="accion" class="btn btn-primary btn-block mt-2" name="accion" value="Ingresar">
             </div>
         </div>
